@@ -1,0 +1,15 @@
+# Maven generated files
+target/
+
+# STS / Eclipse
+.sts4-cache/
+.springBeans
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets
+.env
